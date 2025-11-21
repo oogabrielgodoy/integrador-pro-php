@@ -1,0 +1,17 @@
+{
+    "name": "gabrielgodoy/integrador-pro-php",
+    "autoload": {
+        "psr-4": {
+            "Gabrielgodoy\\IntegradorProPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GabrielGodoy",
+            "email": "ogabrielgodoy@hotmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
