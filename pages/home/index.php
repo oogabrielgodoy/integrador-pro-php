@@ -70,7 +70,7 @@
                             </td>
                             <td class="fw-semibold">OGSHOP</td>
                             <td class="small text-muted">
-                                APP_USR-5362438190549562-112107-ab83bfe6a5c81233bd959f33712aa826-2117321293
+                                APP_USR-123-123-123-123
                             </td>
                             <td>
                                 <a href="#" class="btn btn-sm btn-outline-primary">Atualizar</a>
